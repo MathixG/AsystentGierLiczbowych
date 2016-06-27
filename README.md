@@ -1,1 +1,10 @@
 # AsystentGierLiczbowych
+
+## Features
+
+## Installation
+
+## Authors
+
+
+
